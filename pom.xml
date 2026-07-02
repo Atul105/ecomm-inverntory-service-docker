@@ -11,10 +11,10 @@
     </parent>
 
     <groupId>com.atul</groupId>
-    <artifactId>ecomm-order-service</artifactId>
+    <artifactId>ecomm-inventory-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ecomm-order-service</name>
-    <description>ecomm-order-service</description>
+    <name>ecomm-inventory-service</name>
+    <description>ecomm-inventory-service</description>
 
     <properties>
         <java.version>21</java.version>
